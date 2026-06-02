@@ -42,14 +42,6 @@ This project demonstrates the use of:
    * Total amount spent
    * Average expense amount
 
-## Future Enhancements
-
-* Store expenses in a file or database
-* Categorize expenses (Food, Travel, Shopping, etc.)
-* Generate monthly expense reports
-* Visualize spending using charts and graphs
-* Add budget tracking functionality
-
 ## Conclusion
 
 This project is a beginner-friendly Python application that helps users track their daily expenses while demonstrating fundamental programming concepts and input validation techniques.
